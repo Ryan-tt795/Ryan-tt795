@@ -1,4 +1,4 @@
-# Hello World
+# Ryan Tabor's Portfolio
 
 This is my home page! My name is Ryan Tabor and I am a student at Cal State Fullerton (http://www.fullerton.edu/) and my major is Computer Science.
 
